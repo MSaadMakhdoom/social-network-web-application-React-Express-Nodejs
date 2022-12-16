@@ -1,0 +1,15 @@
+@import "../../style.scss";
+
+.leftBar {
+  width: 20%;
+
+  .container {
+    padding: 200px 20px;
+    text-align: center;
+    font-size: 120%;
+
+    span {
+      font-size: 12px;
+    }
+  }
+}
